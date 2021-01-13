@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<view>轮播图组件</view>
+<home_swiper></home_swiper>
+主页

@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+     "home_swiper":"/components/zj_swiper/zj_swiper"
+  }
+}
